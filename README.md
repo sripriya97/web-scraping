@@ -12,7 +12,8 @@ The following information is scraped and put into a MongoDB
 Here we search for "amazon gift cards" and scrape search results off ebay website.
 The data is extracted using beautiful soup selectors and modified using regex.
 </br></br>
-![image](https://user-images.githubusercontent.com/59286247/224470102-627763e6-6a6a-4b3e-826b-0f4daa192340.png)
+![image](https://user-images.githubusercontent.com/59286247/224470313-b282088c-5e37-419e-ad80-6352c34a28bd.png)
+
 </br></br>
 <h3>Scraping bored-ape-yatch-club</h3>
 <h4>Technology Used : Python, Selenium, Beautiful Soup </h4>
