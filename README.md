@@ -1,4 +1,4 @@
-# web-scraping
+# Data Generation : Web-Scraping
 <h3>Scraping Yellow Pages</h3>
 <h4>Technology Used : Python, Beautiful Soup, api, Regex
 Here we extract information from yellow pages for all pizzeria's in San Francisco
